@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MichaeI825
+- 👀 I’m interested in coding, exploiting, hacking, etc.
+- 🌱 I’m currently learning Lua.
+- 📫 You can reach me through Discord: Michael825#4215
